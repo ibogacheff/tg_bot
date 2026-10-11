@@ -1,0 +1,33 @@
+{
+  "offset": 608576668,
+  "questions": {
+    "1134776602_4": {
+      "id": "1134776602_4",
+      "text": "привет",
+      "userId": 1134776602,
+      "status": "approved",
+      "anonymous": true,
+      "author": {
+        "username": "obsidian_man",
+        "name": "дима"
+      },
+      "submittedAt": "2026-10-11T10:46:29.225Z",
+      "previewMessageId": 5,
+      "number": 1,
+      "reviewMessageId": 6,
+      "postNumber": 1,
+      "channelMessageId": 2,
+      "decidedAt": "2026-10-11T10:53:05.497Z"
+    }
+  },
+  "nextQuestionNumber": 2,
+  "nextPostNumber": 2,
+  "botUsername": "podmaskoy_bot",
+  "knownUsers": {
+    "1134776602": {
+      "id": 1134776602,
+      "username": "obsidian_man",
+      "name": "дима"
+    }
+  }
+}
